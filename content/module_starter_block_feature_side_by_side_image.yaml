@@ -1,0 +1,27 @@
+
+  - id: "ccff-258a-750c"
+    web:
+      metaDescription: ""
+      metaTitle: "0"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 120
+      listed: true
+      createdByUserZUID: "5-dc93cce5e1-zh4m49"
+    data:
+      cta_button_text: "Learn About Features"
+      cta_button_url: "https://abcinsurance.com/learn-features"
+      feature_intro_link: "https://abcinsurance.com/features"
+      feature_intro_text: "Discover our unique insurance features"
+      hero_image: "https://4900nj2j.media.zestyio.com/sb__hero__mage__2.png"
+      og_image: "https://storage.googleapis.com/zesty-prod-instance-screenshots/4900nj2j-dev.webengine.zesty.io!-!block!module_starter_block_feature_side_by_side_image.html!variant=7-84ed8ecbd4-gcx8v8&version=3&_bypassError=true_1280_720.png"
+      sub_title: "Tailored insurance plans to fit your needs and budget, giving you complete peace of mind."
+      title: "Comprehensive Coverage Plans"

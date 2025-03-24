@@ -1,0 +1,27 @@
+
+  - id: "d09d-12a9-133f"
+    web:
+      metaDescription: ""
+      metaTitle: "0"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 123
+      listed: true
+      createdByUserZUID: "5-dc93cce5e1-zh4m49"
+    data:
+      company_logo: "https://4900nj2j.media.zestyio.com/sb__company__logo__1.png"
+      company_name: "ABC Insurance"
+      job_title: "Financial Advisor"
+      og_image: "https://storage.googleapis.com/zesty-prod-instance-screenshots/4900nj2j-dev.webengine.zesty.io!-!block!module_starter_block_single_testimonial.html!variant=7-deb3e497bf-pxvdnd&version=4&_bypassError=true_1280_720.png"
+      person_image: "https://4900nj2j.media.zestyio.com/sb__person__image__1.png"
+      person_name: "John Doe"
+      position: "Senior Manager"
+      quote: "ABC Insurance has transformed my life with its reliable and affordable plans."

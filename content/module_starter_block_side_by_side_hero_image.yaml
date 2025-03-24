@@ -1,0 +1,31 @@
+
+  - id: "e345-17f6-4728"
+    web:
+      metaDescription: ""
+      metaTitle: "0"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 122
+      listed: true
+      createdByUserZUID: "5-dc93cce5e1-zh4m49"
+    data:
+      button_container_sub_text: "No hidden fees, no obligations."
+      cta_button_1_text: "Get a Quote"
+      cta_button_1_url: "https://abcinsurance.com/get-a-quote"
+      cta_button_2_text: "Learn More"
+      cta_button_2_url: "https://abcinsurance.com/learn-more"
+      hero_image: "https://4900nj2j.media.zestyio.com/sb__hero__image__1.png"
+      og_image: "https://storage.googleapis.com/zesty-prod-instance-screenshots/4900nj2j-dev.webengine.zesty.io!-!block!module_starter_block_side_by_side_hero_image.html!variant=7-dea2d793f8-v42mjh&version=3&_bypassError=true_1280_720.png"
+      star_rating_number: 3.5
+      star_rating_sub_text: "Rated by 5,000+ happy customers."
+      star_rating_title: "Customer Satisfaction"
+      sub_title: "Discover personalized insurance plans designed to secure your future and give you peace of mind."
+      title: "Protect What Matters Most with ABC Insurance"

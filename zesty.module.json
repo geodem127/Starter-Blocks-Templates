@@ -1,4 +1,1 @@
-{
-  "name": "Blank Template",
-  "settings": "settings.yaml"
-}
+{"name":"Starter Blocks Templates","schema":"schema.yaml","settings":"settings.yaml","head-tags":"head-tags.yaml"}

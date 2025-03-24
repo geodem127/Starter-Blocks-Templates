@@ -1,0 +1,29 @@
+
+  - id: "5f9f-989c-2538"
+    web:
+      metaDescription: ""
+      metaTitle: "0"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 121
+      listed: true
+      createdByUserZUID: "5-dc93cce5e1-zh4m49"
+    data:
+      cta_button_1_text: "Get a Quote."
+      cta_button_1_url: "https://abcinsurance.com/get-a-quote"
+      cta_button_2_text: "Learn More"
+      cta_button_2_url: "https://abcinsurance.com/learn-more"
+      hero_image: "https://4900nj2j.media.zestyio.com/sb__hero__image__1.png"
+      og_image: "https://storage.googleapis.com/zesty-prod-instance-screenshots/4900nj2j-dev.webengine.zesty.io!-!block!module_starter_block_hero_image_below.html!variant=7-96f5aed7a8-5gkpfh&version=3&_bypassError=true_1280_720.png"
+      sub_title: "Affordable plans tailored to your needs."
+      title: "Secure Your Future with ABC Insurance"
+      top_cta_button_text: "Get Started"
+      top_cta_button_url: "https://abcinsurance.com/get-started"
